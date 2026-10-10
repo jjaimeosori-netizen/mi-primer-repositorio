@@ -19,3 +19,5 @@ Practicar el desarrollo web y aprender a crear, organizar y publicar proyectos u
 ## Página web
 
 Mi proyecto está publicado mediante GitHub Pages.
+
+Estoy practicando el comando  git pull
